@@ -1,0 +1,43 @@
+{
+  "name": "hirehub",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build",
+    "lint": "vue-cli-service lint"
+  },
+  "dependencies": {
+    "@coreui/coreui": "^5.1.2",
+    "@coreui/icons": "^3.0.1",
+    "@coreui/utils": "^2.0.2",
+    "@coreui/vue": "^5.4.0",
+    "@coreui/vue-chartjs": "^3.0.0",
+    "axios": "^1.7.7",
+    "bcrypt": "^5.1.1",
+    "bcryptjs": "^2.4.3",
+    "core-js": "^3.8.3",
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.5",
+    "express": "^4.21.1",
+    "jsonwebtoken": "^9.0.2",
+    "mongoose": "^8.7.1",
+    "pinia": "^2.2.4",
+    "simplebar-vue": "^2.3.5",
+    "vue": "^3.2.13",
+    "vue-router": "^4.0.13"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.12.16",
+    "@babel/eslint-parser": "^7.12.16",
+    "@vue/cli-plugin-babel": "~5.0.0",
+    "@vue/cli-plugin-eslint": "~5.0.0",
+    "@vue/cli-plugin-router": "~5.0.0",
+    "@vue/cli-service": "~5.0.0",
+    "eslint": "^7.32.0",
+    "eslint-config-prettier": "^8.3.0",
+    "eslint-plugin-prettier": "^4.0.0",
+    "eslint-plugin-vue": "^8.0.3",
+    "prettier": "^2.4.1"
+  }
+}
